@@ -1,1 +1,1 @@
-# pyScript2Exe
+# py_to_exeMaker
